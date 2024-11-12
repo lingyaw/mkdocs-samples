@@ -1,0 +1,11 @@
+mkdocs-material==9.*
+mkdocs-git-revision-date-localized-plugin
+mkdocs-git-committers-plugin-2
+mkdocs-git-authors-plugin
+mkdocs-rss-plugin
+material-plausible-plugin
+mkdocs-nav-weight
+mdx_truly_sane_lists
+mkdocs-awesome-pages-plugin
+mkdocs-drawio-file
+mkdocs-macros-plugin

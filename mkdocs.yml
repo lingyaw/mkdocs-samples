@@ -1,0 +1,16 @@
+#site_name: MkDocs Site
+#site_url: https://lingyaw.github.io/mkdocs-sample/
+
+site_name: AkerBP Analytics CoE
+repo_url: https://github.com/AkerBP/Analytics-CoE
+repo_name: AkerBP/Analytics-CoE
+site_url: https://digital.akerbp.com/
+
+edit_uri: "?version=GBmain&path=/docs/"
+
+theme:
+  name: material
+
+nav:
+  - Home: homepage.md
+  - About: about.md

@@ -1,0 +1,19 @@
+{
+	"hostRequirements": {
+		"cpus": 2,
+		"memory": "8gb",
+		"storage": "32gb"
+	 },
+	"image": "mcr.microsoft.com/devcontainers/python:3.9",
+	"features": {
+		"ghcr.io/akhildevelops/devcontainer-features/pip:0": {}
+	},
+
+	"remoteEnv": {
+
+	 },
+
+	// Use 'postCreateCommand' to run commands after the container is created.
+
+  	"postCreateCommand": "/bin/bash ./setup.sh > ~/post-create.log"
+}
