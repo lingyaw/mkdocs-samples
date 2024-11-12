@@ -1,10 +1,10 @@
 # Project information
-site_name: AkerBP Analytics Center of Excellence
+site_name: Aker BP - Analytics Center of Excellence
 site_url: https://digital.akerbp.com/
 site_description: >-
-  Write your documentation in Markdown and create a professional static site in
-  minutes – searchable, customizable, in 60+ languages, for all devices
-
+  We exist to enhance operations and decision-making processes in Aker BP, 
+  helping BUs and Assets visualize data and enabling the organization to 
+  reuse and learn from existing projects and solutions.
 # Repository
 repo_name: AkerBP/Analytics-CoE
 repo_url: https://github.com/AkerBP/Analytics-CoE
@@ -161,13 +161,13 @@ nav:
   - Home: index.md
   - Analytics:
       - Overview: Analytics/index.md
-  - Documentation:
+  - Guidelines:
       - Overview: Documentation/index.md
       - Semantic Models: Documentation/Semantic_models/index.md
       - Visualization:
           - Power BI: Documentation/Visualization/PowerBI.md
           - Spotfire: Documentation/Visualization/Spotfire.md
-  - Getting started:
+  - Getting Started:
     - Installation: getting-started.md
     - Creating your site: creating-your-site.md
     - Publishing your site: publishing-your-site.md
